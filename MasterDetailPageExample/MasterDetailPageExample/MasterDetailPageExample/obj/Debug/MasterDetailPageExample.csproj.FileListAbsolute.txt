@@ -1,0 +1,13 @@
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\obj\Debug\MasterDetailPageExample.csprojResolveAssemblyReference.cache
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\MasterDetailPageExample.dll
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\MasterDetailPageExample.pdb
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\obj\Debug\MasterDetailPageExample.dll
+C:\Users\sylvia.moss.martinez\documents\visual studio 2015\Projects\MasterDetailPageExample\MasterDetailPageExample\MasterDetailPageExample\obj\Debug\MasterDetailPageExample.pdb
