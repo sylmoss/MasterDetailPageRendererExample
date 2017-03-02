@@ -11,7 +11,6 @@ namespace MasterDetailPageExample
 			var menuPage = new MenuPage ();
 			menuPage.OnMenuSelect = (categoryPage) => {
 				Detail = new NavigationPage(categoryPage);
-				IsPresented = false;
 			};
 
 			Master = menuPage;
